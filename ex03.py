@@ -1,3 +1,4 @@
+# -*- coding: cp949 -*-
 print"hello world"
 print"hello again"
 print"I like typing this."
@@ -14,6 +15,7 @@ print "I could have code like this." # and the comment after is ignored
 # print "This won't run."
 
 print "This will run."
+# 닭의 수를 표시할 것임을 알림
 print "i will now count my chickens:"
 
 print"hens",25 + 30 / 6
